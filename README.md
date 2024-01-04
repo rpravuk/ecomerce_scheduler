@@ -1,2 +1,2 @@
-# ecomerce_scheduler
+# ecommerce_scheduler
 Axillary service for data synchronizations 
